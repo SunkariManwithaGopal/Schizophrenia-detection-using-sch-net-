@@ -1,0 +1,1 @@
+# Schizophrenia-detection-using-sch-net-
